@@ -1,0 +1,5 @@
+forks
+/__pycache__/
+out
+*.json
+env
